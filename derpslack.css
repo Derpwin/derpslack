@@ -817,3 +817,16 @@ p-channel_sidebar__banner--unreads {
 .p-emoji_picker__footer {
     background: var(--background-elevated);
 }
+
+.rxn.menu_rxn .ts_icon {
+    color: var(--primary);
+}
+
+#client-ui .file_comment_item .monospace,
+#client-ui .file_list_item .monospace,
+#client-ui .star_item ts-message .monospace,
+#files_list .file_comment_item .monospace,
+#files_list .file_list_item .monospace,
+#files_list .star_item ts-message .monospace {
+    color: var(--text);
+}
