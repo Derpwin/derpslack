@@ -810,3 +810,8 @@ p-channel_sidebar__banner--unreads {
 .message.feature_fix_files.first:nth-child(odd) {
     background:rgba(255,255,255,.15);
 }
+
+.p-emoji_picker__preview,
+.p-emoji_picker__preview_text {
+    background: var(--background);
+}
