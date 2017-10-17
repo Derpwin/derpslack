@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
    let webviews = document.querySelectorAll(".TeamView webview");
 
    // Fetch our CSS in parallel ahead of time
-   const cssPath = 'https://gist.github.com/seiretsym/bc7590617eb4fdc42c026e23b2060199/raw/c155880e8eb7f38c2ba86b30bd048a3387814861/derpslack.css';
+   const cssPath = 'https://github.com/seiretsym/derpslack/raw/master/derpslack.css';
    let cssPromise = fetch(cssPath).then(response => response.text());
 
    let customCustomCSS = `
