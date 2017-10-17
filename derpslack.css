@@ -811,6 +811,7 @@ p-channel_sidebar__banner--unreads {
     background:rgba(255,255,255,.15);
 }
 
+.menu.p-emoji_picker,
 .p-emoji_picker__preview,
 .p-emoji_picker__preview_text,
 .p-emoji_picker__footer {
