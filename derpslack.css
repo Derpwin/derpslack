@@ -812,6 +812,7 @@ p-channel_sidebar__banner--unreads {
 }
 
 .p-emoji_picker__preview,
-.p-emoji_picker__preview_text {
-    background: var(--background);
+.p-emoji_picker__preview_text,
+.p-emoji_picker__footer {
+    background: var(--background-elevated);
 }
