@@ -833,5 +833,6 @@ p-channel_sidebar__banner--unreads {
 
 .p-channel_sidebar__banner--unreads,
 .p-channel_sidebar__banner--bottom {
-    background: var(--background);
+    color: var(--primary);
+    background: var(--text-hover);
 }
