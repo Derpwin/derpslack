@@ -33,6 +33,7 @@ document.addEventListener("DOMContentLoaded", function() {
       --background-elevated: #2B1306;
       --border-dim: #50964D;
       --border-bright: #50964D;
+      --text-hover: #50964D;
    }
    `
 
