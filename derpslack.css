@@ -830,3 +830,8 @@ p-channel_sidebar__banner--unreads {
 #files_list .star_item ts-message .monospace {
     color: var(--text);
 }
+
+.p-channel_sidebar__banner--unreads,
+.p-channel_sidebar__banner--bottom {
+    background: var(--background);
+}
