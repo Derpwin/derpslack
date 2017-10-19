@@ -862,5 +862,5 @@ body.light_theme {
 }
 
 #messages_container.has_top_messages_banner:before {
-    background: var(--background);
+    background: transparent !important;
 }
