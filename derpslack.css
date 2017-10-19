@@ -171,7 +171,6 @@ ts-message:last-child {
 #col_channels_footer,
 pre,
 ts-message .action_hover_container .btn_msg_action,
-#messages_container.has_top_messages_banner:before,
 .file_container,
 .file_container .CodeMirror .CodeMirror-code>div:before, .file_container .CodeMirror .sssh-line:before, .file_container .sssh-code .CodeMirror-code>div:before, .file_container .sssh-code .sssh-line:before,
 #col_flex,
