@@ -837,3 +837,13 @@ p-channel_sidebar__banner--unreads {
     color: var(--primary);
     background: var(--border-bright);
 }
+
+.c-member__display-name,
+.c-team__display-name,
+.c-usergroup__handle {
+    color: var(--primary);
+}
+
+#details_tab .channel_section_label .ts_icon_info_circle {
+    color: var(--primary);
+}
