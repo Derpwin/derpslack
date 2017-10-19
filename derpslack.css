@@ -835,9 +835,7 @@ p-channel_sidebar__banner--unreads {
 .p-channel_sidebar__banner--unreads,
 .p-channel_sidebar__banner--bottom,
 .p-channel_sidebar__banner--top,
-#messages_unread_status,
-#messages_unread_status.quiet,
-first_hidden_tab_stop {
+#messages_unread_status {
     color: var(--primary);
     background: var(--border-bright);
 }
