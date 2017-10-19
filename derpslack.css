@@ -852,6 +852,7 @@ p-channel_sidebar__banner--unreads {
     color: var(--primary);
 }
 
-body {
+.channel_prefs_body__section_header_title,
+.channel_prefs__muting_checkbox_label {
     color: var(--primary);
 }
