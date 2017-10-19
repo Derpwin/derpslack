@@ -853,6 +853,6 @@ p-channel_sidebar__banner--unreads {
 }
 
 .channel_prefs_body__section_header_title,
-.channel_prefs__muting_checkbox_label {
+.channel_prefs__muting_checkbox_label:not(.subtle_silver) {
     color: var(--primary) !important;
 }
