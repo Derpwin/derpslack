@@ -854,5 +854,5 @@ p-channel_sidebar__banner--unreads {
 
 .channel_prefs_body__section_header_title,
 .channel_prefs__muting_checkbox_label {
-    color: var(--primary);
+    color: var(--primary) !important;
 }
