@@ -848,8 +848,7 @@ p-channel_sidebar__banner--unreads {
     color: var(--primary);
 }
 
-#details_tab .channel_section_label .ts_icon_info_circle,
-.charcoal_grey {
+#details_tab .channel_section_label .ts_icon_info_circle {
     color: var(--primary);
 }
 
@@ -857,4 +856,8 @@ p-channel_sidebar__banner--unreads {
 .channel_prefs_body__section_header_title,
 .channel_prefs__muting_checkbox_label:not(.subtle_silver) {
     color: var(--primary) !important;
+}
+
+body.light_theme {
+    color: var(--primary);
 }
