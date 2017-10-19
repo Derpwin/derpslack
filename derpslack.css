@@ -799,7 +799,8 @@ ts-jumper ts-jumper-container {
     color: var(--text-hover) !important;
 }
 
-.presence {
+.presence,
+.charcoal_grey {
     color: var(--text-hover);
 }
 
@@ -835,7 +836,8 @@ p-channel_sidebar__banner--unreads {
 .p-channel_sidebar__banner--unreads,
 .p-channel_sidebar__banner--bottom,
 .p-channel_sidebar__banner--top,
-#messages_unread_status {
+#messages_unread_status,
+#messages_unread_status.quiet {
     color: var(--primary);
     background: var(--border-bright);
 }
@@ -847,5 +849,9 @@ p-channel_sidebar__banner--unreads {
 }
 
 #details_tab .channel_section_label .ts_icon_info_circle {
+    color: var(--primary);
+}
+
+body {
     color: var(--primary);
 }
