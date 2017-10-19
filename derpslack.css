@@ -848,10 +848,12 @@ p-channel_sidebar__banner--unreads {
     color: var(--primary);
 }
 
-#details_tab .channel_section_label .ts_icon_info_circle {
+#details_tab .channel_section_label .ts_icon_info_circle,
+.charcoal_grey {
     color: var(--primary);
 }
 
+.channel_prefs_notifications_table,
 .channel_prefs_body__section_header_title,
 .channel_prefs__muting_checkbox_label:not(.subtle_silver) {
     color: var(--primary) !important;
