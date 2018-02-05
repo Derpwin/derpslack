@@ -88,7 +88,7 @@ ts-jumper ol li .member_real_name, ts-jumper ol li .view_name, ts-jumper ol li .
   color: var(--text) !important;
 }
 
-.light_theme ts-message .message_content a.message_sender, #msg_input::-webkit-input-placeholder,
+.light_theme ts-message .message_content a.message_sender, c-message_light .c-message_content, c-message_content #msg_input::-webkit-input-placeholder,
 ts-jumper input[type="text"]::-webkit-input-placeholder {
   color: #50964D !important;
 }
